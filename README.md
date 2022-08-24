@@ -1,7 +1,7 @@
 # Medical-Insurance-cost-prediction
 
 # Content
-Columns
+# Columns
 
 age: age of primary beneficiary
 
@@ -18,3 +18,16 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 
 charges: Individual medical costs billed by health insurance
 
+# Features
+
+Importing libraries and data
+Exploratory Data Analysis
+Data preprocessing
+Model creation & Evaluation
+Linear Regression
+Lasso Regression
+Ridge Regression
+
+# Result:
+◦ Performed Exploratory Data Analysis, compared performances of Linear, Ridge & LASSO Regression model
+◦ Achieved maximum R-squared score of 0.76 , minimum RMSE and minimum MAE with Lasso regression
