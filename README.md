@@ -34,6 +34,5 @@ Lasso Regression
 Ridge Regression
 
 # Result:
-◦ Performed Exploratory Data Analysis, compared performances of Linear, Ridge & LASSO Regression model.
 
-◦ Achieved maximum R-squared score of 0.76 , minimum RMSE and minimum MAE with Lasso regression.
+The main objective of this project is to Perform Exploratory Data Analysis, compared performances of Linear, Ridge & LASSO Regression model and achieved maximum R-squared score of 0.76 , minimum RMSE and minimum MAE with Lasso regression.
