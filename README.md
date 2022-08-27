@@ -1,6 +1,5 @@
 # Medical-Insurance-cost-prediction
 
-# Content
 # Columns
 
 age: age of primary beneficiary
